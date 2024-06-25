@@ -22,8 +22,8 @@ Este projeto demonstra a aplicação do algoritmo Naive Bayes para classificar m
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/classificacao-sms-naive-bayes.git
-   cd classificacao-sms-naive-bayes
+   git clone https://github.com/CarlosSeixas2/Classificacao-de-Mensagens-SMS-usando-Naive-Bayes.git
+   cd Classificacao-de-Mensagens-SMS-usando-Naive-Bayes
    ```
    
 2. **Crie e ative um ambiente virtual (recomendado):**
